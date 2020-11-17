@@ -1,0 +1,44 @@
+@import url(reset.css);
+
+header {
+
+	width: 1440px;
+	height: 200px;
+
+	background: #E5E000;
+}
+
+.name {
+
+	font-family: Helvetica;
+	font-size: 50px;
+	line-height: 200px;
+	text-transform: uppercase;
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.image {
+
+	width: 1440px;
+	height: 1080px;
+	background: url(../img/driko.jpeg);
+	background-size: contain;
+}
+
+.links {
+	width: 1440px;
+	height: 100px;
+	background: #E5E000;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 100px;
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+}
+
