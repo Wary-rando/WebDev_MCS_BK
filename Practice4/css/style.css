@@ -36,13 +36,31 @@ header {
 	font-weight: bold;
 	font-size: 25px;
 	line-height: 100px;
+	color: white;
+	text-align: center;
 
 }
 
 .links a {
 	text-transform: uppercase;
-	text-align: center;
 	text-decoration: none;
 	color: white;
 }
+
+.bio {
+	width: 1440px;
+	height: 500px;
+	background-color: white;
+	font-family: Helvetica;
+	font-style: normal;
+	font-size: 50px;
+}
+
+.bio h1 {
+	
+	font-weight: bold;
+	line-height: 200px;
+	text-transform: uppercase;
+}
+.bio p {}
 
