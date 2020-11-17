@@ -36,10 +36,13 @@ header {
 	font-weight: bold;
 	font-size: 25px;
 	line-height: 100px;
+
+}
+
+.links a {
 	text-transform: uppercase;
 	text-align: center;
 	text-decoration: none;
-		
 	color: white;
 }
 
