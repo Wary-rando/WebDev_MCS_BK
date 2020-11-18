@@ -21,7 +21,7 @@ header {
 
 	height: 1080px;
 	background: url(../img/driko.jpeg);
-	background-size: contain;
+	background-size: cover;
 }
 
 .links {
