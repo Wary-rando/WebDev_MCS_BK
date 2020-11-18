@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@500&display=swap');
+
+.head h2 {
+	font-family: 'Goldman', cursive;
+	text-align: center;
+	font-size: 40px;
+}
+.text p {
+	text-align: right;
+	font-family: 'Lato', sans-serif;
+}
+
+.text_two p {
+	text-align: center;
+	font-family: 'Big Shoulders Stencil Text', cursive;
+}

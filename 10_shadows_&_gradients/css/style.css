@@ -1,0 +1,12 @@
+.linear {
+	width: 300px;
+	height: 200px;
+	background-image: linear-gradient(to bottom, yellow, red);
+}
+
+.shadow {
+	width: 200px;
+	height: 200px;
+	box-shadow: 5px 0px 15px grey;
+	border-radius: 15px;
+}
