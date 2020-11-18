@@ -1,0 +1,78 @@
+@import url(reset.css);
+
+header {
+
+	height: 200px;
+	background: #E5E000;
+}
+
+.name {
+
+	font-family: Helvetica;
+	font-size: 50px;
+	line-height: 200px;
+	text-transform: uppercase;
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.image {
+
+	height: 1080px;
+	background: url(../img/driko.jpeg);
+	background-size: contain;
+}
+
+.links {
+
+	height: 100px;
+	background: #E5E000;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 100px;
+	color: white;
+	text-align: center;
+
+}
+
+.links a {
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+}
+
+.bio {
+
+	background-color: white;
+	font-family: Helvetica;
+	font-style: normal;
+	font-size: 50px;
+}
+
+.bio h1 {
+	
+	font-weight: bold;
+	line-height: 200px;
+	text-transform: uppercase;
+}
+
+.wrapping {
+
+	height: 200px;
+	background: #E5E000;
+	background-image: url(../img/logo.png);
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+.wrapping h2 {
+	font-family: Helvetica;
+	font-style: normal;
+	font-size: 50px;
+	text-align: right;
+	color: white;
+	line-height: 200px;
+}
