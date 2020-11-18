@@ -4,7 +4,6 @@ header {
 
 	width: 1440px;
 	height: 200px;
-
 	background: #E5E000;
 }
 
@@ -49,7 +48,7 @@ header {
 
 .bio {
 	width: 1440px;
-	height: 500px;
+	height: 550px;
 	background-color: white;
 	font-family: Helvetica;
 	font-style: normal;
@@ -62,5 +61,19 @@ header {
 	line-height: 200px;
 	text-transform: uppercase;
 }
-.bio p {}
 
+.wrapping {
+
+	width: 1440px;
+	height: 200px;
+	background: #E5E000;
+}
+
+.wrapping h2 {
+	font-family: Helvetica;
+	font-style: normal;
+	font-size: 50px;
+	text-align: right;
+	color: white;
+	line-height: 100px;
+}
