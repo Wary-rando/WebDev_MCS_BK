@@ -67,6 +67,9 @@ header {
 	width: 1440px;
 	height: 200px;
 	background: #E5E000;
+	background-image: url(../img/logo.png);
+	background-position: left;
+	background-repeat: no-repeat;
 }
 
 .wrapping h2 {
@@ -75,5 +78,5 @@ header {
 	font-size: 50px;
 	text-align: right;
 	color: white;
-	line-height: 100px;
+	line-height: 200px;
 }
