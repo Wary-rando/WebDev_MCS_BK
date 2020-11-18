@@ -2,7 +2,6 @@
 
 header {
 
-	width: 1440px;
 	height: 200px;
 	background: #E5E000;
 }
@@ -20,14 +19,13 @@ header {
 
 .image {
 
-	width: 1440px;
 	height: 1080px;
 	background: url(../img/driko.jpeg);
 	background-size: contain;
 }
 
 .links {
-	width: 1440px;
+
 	height: 100px;
 	background: #E5E000;
 	font-family: Helvetica;
@@ -47,7 +45,7 @@ header {
 }
 
 .bio {
-	width: 1440px;
+
 	height: 550px;
 	background-color: white;
 	font-family: Helvetica;
@@ -64,7 +62,6 @@ header {
 
 .wrapping {
 
-	width: 1440px;
 	height: 200px;
 	background: #E5E000;
 	background-image: url(../img/logo.png);
