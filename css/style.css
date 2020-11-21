@@ -16,7 +16,7 @@ header {
 	text-align: center;
 	color: #FFFFFF;
 	position: absolute;
-	left: 70px;
+	left: 50px;
 	
 }
 
@@ -31,12 +31,13 @@ header {
 
 	height: 100px;
 	background: #E5E000;
+	color: white;
+	position: relative;
 	font-family: Helvetica;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 25px;
 	line-height: 100px;
-	color: white;
 	text-align: center;
 
 }
@@ -45,6 +46,13 @@ header {
 	text-transform: uppercase;
 	text-decoration: none;
 	color: white;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 100px;
+	text-align: center;
+
 }
 
 .bio {
@@ -69,10 +77,14 @@ header {
 
 	height: 200px;
 	background: #E5E000;
-	background-image: url(../img/logo.png);
-	background-position: left;
-	background-repeat: no-repeat;
+	position: relative;
 
+}
+
+img {
+	position: absolute;
+	top: 80px;
+	left: 50px;
 }
 
 .wrapping h2 {
@@ -82,4 +94,6 @@ header {
 	text-align: right;
 	color: white;
 	line-height: 200px;
+	position: absolute;
+	right: 50px;
 }
