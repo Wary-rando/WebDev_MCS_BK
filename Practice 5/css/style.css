@@ -93,6 +93,7 @@
 
 .link {
 	color: white;
+	text-decoration: none;
 	font-family: Helvetica;
 	font-size: 20px;
 	line-height: 23px;
@@ -100,5 +101,5 @@
 	position: absolute;
 	right: 20px;
 	top: 20px;
-	text-decoration: none;
+	
 }
