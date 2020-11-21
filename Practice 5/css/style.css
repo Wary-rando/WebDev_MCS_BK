@@ -1,0 +1,106 @@
+@import url(reset.css);
+
+.header {
+	width: 1440px;
+	height: 60px;
+	background: #FE1A19;
+	position: relative;
+}
+
+.name {
+	color: white;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+
+.footer {
+	width: 1440px;
+	height: 60px;
+	background: #FE1A19;
+	position: relative;
+	top: 964px;
+}
+
+.wrapping {
+	color: white;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	text-transform: uppercase;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+
+.recipe_one {
+	position: absolute;
+	width: 400px;
+	height: 800px;
+	top: 140px;
+	left: 70px;
+	border: 5px solid #E5E000;
+	box-sizing: border-box;
+	border-radius: 30px
+
+}
+
+.recipe_two {
+	position: absolute;
+	width: 400px;
+	height: 800px;
+	top: 140px;
+	left: 520px;
+	border: 5px solid #E5E000;
+	box-sizing: border-box;
+	border-radius: 30px
+
+}
+
+.recipe_three {
+	position: absolute;
+	width: 400px;
+	height: 800px;
+	top: 140px;
+	left: 970px;
+	border: 5px solid #E5E000;
+	box-sizing: border-box;
+	border-radius: 30px
+
+}
+
+.tart {
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	color: #000000;
+
+}
+
+.recipe_description {
+	position: absolute;
+	left: 30px;
+	top: 100px;
+
+	font-family: Times New Roman;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+.link {
+	color: white;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	text-transform: uppercase;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	text-decoration: none;
+}
